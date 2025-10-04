@@ -46,7 +46,7 @@ It analyzes key sales metrics, identifies top- and underperforming drugs and cus
 
 ## 🛠️ Tools & Technologies
 - **Power BI Desktop**
-- **Data Source:** (Add here — e.g., sample sales dataset, CSV file, or simulated data)
+- **Data Source:** ()
 - **Measures:** Created using DAX for dynamic comparisons and aggregations
 
 ---
