@@ -46,15 +46,13 @@ It analyzes key sales metrics, identifies top- and underperforming drugs and cus
 
 ## 🛠️ Tools & Technologies
 - **Power BI Desktop**
-- **Data Source:** ()
+- **Data Source:** (CustomerTable.csv, DrugLookUp.csv, FactTable.csv)
 - **Measures:** Created using DAX for dynamic comparisons and aggregations
 
 ---
 
 ## 📸 Dashboard Preview
-*(Include screenshots or visuals of your dashboard here)*  
-Example:  
-![Dashboard Preview](screenshots/dashboard_overview.png)
+![Dashboard Preview](Drug Sales Top/Bottom Analysis.png)
 
 ---
 
