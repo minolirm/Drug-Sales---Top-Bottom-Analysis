@@ -1,4 +1,4 @@
-# Drug-Sales---Top-Bottom-Analysis
+# Drug-Sales-Top-Bottom-Analysis
 This dashboard provides a comprehensive analysis of sales performance, focusing on identifying top- and bottom-performing drugs and customers. It enables users to explore overall sales metrics and month-over-month performance trends through interactive visuals.
 
 # 💊 Power BI Dashboard – Top/Bottom Analysis
@@ -60,6 +60,3 @@ Drug Sales Top/Bottom Analysis.png
 If you have published it to Power BI Service:
 👉 [View Interactive Dashboard](https://app.powerbi.com/view?r=YOUR_LINK_HERE)
 
----
-
-## 📁 Repository Structure
