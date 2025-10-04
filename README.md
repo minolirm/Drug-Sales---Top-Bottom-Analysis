@@ -52,7 +52,7 @@ It analyzes key sales metrics, identifies top- and underperforming drugs and cus
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](Drug Sales Top/Bottom Analysis.png)
+Drug Sales Top/Bottom Analysis.png
 
 ---
 
