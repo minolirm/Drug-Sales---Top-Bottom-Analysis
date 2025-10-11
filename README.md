@@ -1,14 +1,14 @@
 # Drug-Sales-Top-Bottom-Analysis
 This dashboard provides a comprehensive analysis of sales performance, focusing on identifying top- and bottom-performing drugs and customers.
 
-# 💊 Power BI Dashboard – Top/Bottom Analysis
+# Power BI Dashboard – Top/Bottom Analysis
 
-## 📊 Project Overview
+## Project Overview
 This project showcases a **Power BI dashboard** focused on **Top/Bottom Sales Performance Analysis**. It analyzes key sales metrics, identifies top- and underperforming drugs and customers, and highlights monthly performance trends to support data-driven business decisions.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Evaluate overall sales performance and profit trends.
 - Identify top-performing and underperforming drugs by key measures.
 - Discover high- and low-performing customers.
@@ -16,7 +16,7 @@ This project showcases a **Power BI dashboard** focused on **Top/Bottom Sales Pe
 
 ---
 
-## 🧩 Covered Topics
+## Covered Topics
 
 ### **1. Overall Sales Metrics**
 - Key indicators: **Quantity Sold**, **COGS**, **Revenue**, **Profit**, and **Profit Margin**
@@ -35,7 +35,7 @@ This project showcases a **Power BI dashboard** focused on **Top/Bottom Sales Pe
 
 ---
 
-## 🧠 Key Insights
+## Key Insights
 - Quickly identify top-selling drugs contributing the most to revenue.
 - Track underperforming products and customers to guide improvement strategies.
 - Understand profit margin trends across time and categories.
@@ -43,15 +43,18 @@ This project showcases a **Power BI dashboard** focused on **Top/Bottom Sales Pe
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - **Power BI Desktop**
 - **Data Source:** (CustomerTable.csv, DrugLookUp.csv, FactTable.csv)
 - **Measures:** Created using DAX for dynamic comparisons and aggregations
 
 ---
 
-## 📸 Dashboard Preview
-Drug Sales Top/Bottom Analysis.png
+## Dashboard Preview
+[Drug Sales Top Bottom Analysis](Open%20Drug%20Sales%TopBottom%20Analysis.png)
+
+### View the Interactive Dashboard
+[View Interactive Dashboard (GIF Preview)](Drug%20Sales%20-%TopBottom%20Analysis.gif)
 You can download the `.pbix` file for this dashboard here:
 
 [Download drug_sales.pbix](https://github.com/minolirm/Drug-Sales---Top-Bottom-Analysis/blob/main/drug%20sales.pbix)
