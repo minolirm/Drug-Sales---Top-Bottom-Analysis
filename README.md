@@ -51,10 +51,9 @@ This project showcases a **Power BI dashboard** focused on **Top/Bottom Sales Pe
 ---
 
 ## Dashboard Preview
-[Drug Sales Top Bottom Analysis](Open%20Drug%20Sales%TopBottom%20Analysis.png)
+[Drug Sales Top Bottom Analysis](Drug%20Sales%20-%20Top%20Bottom%20Analysis.png)
+[View Interactive Dashboard (GIF Preview)](Drug%20Sales%20-%20Top%20Botton%20Analysis.gif)
 
-### View the Interactive Dashboard
-[View Interactive Dashboard (GIF Preview)](Drug%20Sales%20-%TopBottom%20Analysis.gif)
 You can download the `.pbix` file for this dashboard here:
 
 [Download drug_sales.pbix](https://github.com/minolirm/Drug-Sales---Top-Bottom-Analysis/blob/main/drug%20sales.pbix)
